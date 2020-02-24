@@ -1,9 +1,5 @@
 package leetcode;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
 // Definition for singly-linked list.
 class ListNode {
     int val;
